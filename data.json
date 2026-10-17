@@ -1,0 +1,1 @@
+{"methods": ["Exp. smoothing", "Moving avg (3m)", "Naive", "Seasonal naive"], "wape": [24.7, 27.4, 27.6, 27.7], "abc": ["A", "B", "C"], "sku_share": [32.5, 35.0, 32.5], "val_share": [78.6, 16.0, 5.4], "ss_diff": [84.4, 24.4, 5.9], "ss_uni": [71.0, 24.4, 7.5], "tot_diff": 114694.0, "tot_uni": 102976.0, "eoq_cost": 45201.0, "total_value": 3570391.13, "nA": 13, "n": 40}
